@@ -10,7 +10,7 @@ import threading
 import random
 ids=[]
 
-tok = input("TOKEN : 7028436368:AAGPMCNdR69NYwzDYWq0m-Djg6kSk4QEMoM")
+tok = input("7028436368:AAGPMCNdR69NYwzDYWq0m-Djg6kSk4QEMoM")
 print("\033[1;32;40mRun ")
 bot=telebot.TeleBot(tok)
 
